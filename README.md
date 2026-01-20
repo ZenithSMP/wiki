@@ -24,7 +24,7 @@ metaLinks:
 The wiki is currently in early stages of development. Many features may be missing.
 
 {% hint style="success" %}
-Anyone can update the wiki by creating a pull request on our GitHub!
+Anyone can update the wiki by creating a pull request on our [GitHub](https://github.com/ZenithSMP/SMP-Wiki)!
 {% endhint %}
 
 {% hint style="info" %}
